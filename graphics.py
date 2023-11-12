@@ -1,3 +1,4 @@
+# ЭТОТ ФАЙЛ ДОЛЖЕН НАОДИТСЯ В ПАПКЕ С СОБРАННЫМ ПРОЕКТОМ!
 import sys
 import matplotlib.pyplot as plt
 import numpy as np
